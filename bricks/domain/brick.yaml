@@ -1,0 +1,11 @@
+name: domain
+description: Domain layer for the application
+version: 0.0.1+1
+
+vars:
+  name:
+    type: string
+    prompt: Entity name
+  with_dummy_data:
+    type: boolean
+    prompt: Include dummy data?

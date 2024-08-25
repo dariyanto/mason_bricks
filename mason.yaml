@@ -1,0 +1,7 @@
+bricks:
+  core:
+    path: bricks/core
+  data:
+    path: bricks/data
+  domain:
+    path: bricks/domain
