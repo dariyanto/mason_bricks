@@ -1,0 +1,3 @@
+final router = GoRouter(
+  routes: [],
+);
